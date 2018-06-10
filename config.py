@@ -1,0 +1,8 @@
+aws_secret_access_key='ybJsFN9l8K0jo0Kc7Nv5aUjx7v2vIsi4on+Dh2jo'
+aws_access_key_id='AKIAJVNAYSZHQLNY5XGA'
+signature_version='s3v4'
+region_name='eu-central-1'
+bucket='food-analytics-data'
+sentiment_data_dir='sentiment-data'
+classification_data_dir='classification-data'
+models_dir='models'
